@@ -52,17 +52,13 @@ Task Scheduling Tree reimagines the traditional to-do list as an interactive tre
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/task-scheduling-tree.git
-   cd task-scheduling-tree
-   ```
 
-2. **Install dependencies**
+3. **Install dependencies**
    ```bash
    flutter pub get
    ```
 
-3. **Run the app**
+4. **Run the app**
 
    On Chrome (web):
    ```bash
