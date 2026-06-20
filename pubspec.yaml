@@ -10,10 +10,10 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # Replaces localStorage — saves data on device
+  # saves data on device
   shared_preferences: ^2.2.2
 
-  # Replaces CSS UUID/Date.now() — generates unique task IDs
+  # generates unique task IDs
   uuid: ^4.3.3
 
   # For date picker in task form
